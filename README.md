@@ -64,3 +64,5 @@ Remember to extract the executable file to a directory/folder that is visible in
 That was actually all the set up required! If that went smoothly, then move on to the next step of verifying that your installation worked by downloading the test.py file and running it using:
 
 ```python test.py```
+
+(Note, it is made for testing the installation of Google Chrome Webdriver, if you are using a different one, just change that line to your respective web browser name)
