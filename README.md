@@ -54,7 +54,9 @@ That will install the selenium python packages, so that you can now use the requ
 2. Install the Selenium Web Driver for your respective browser (note that it is a different install for Linux, Mac, and Windows):
 
 a. For Google Chrome: https://chromedriver.chromium.org/downloads
+
 b. For Firefox: https://github.com/mozilla/geckodriver/releases
+
 c. For Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
 If you use a different browser, just google "selenium web driver for X browser".
@@ -65,4 +67,4 @@ That was actually all the set up required! If that went smoothly, then move on t
 
 ```python test.py```
 
-(Note, it is made for testing the installation of Google Chrome Webdriver, if you are using a different one, just change that line to your respective web browser name)
+(Note, it is made for testing the installation of Google Chrome Webdriver, if you are using a different one, just change the line where we set it to use the Chrome Webdriver to your respective web browser's driver name)
