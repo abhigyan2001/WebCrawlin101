@@ -43,3 +43,24 @@ However, people realised that it could also be used for Web Scraping since it of
 
 We will be making use of Selenium in Python here, but do keep in mind that it has a Java version as well, which can be used for the same purposes, if you're more into Java.
 
+### Software/Packages required:
+
+1. Open up your prompth with Python installed, and type in:
+
+```pip install selenium```
+
+That will install the selenium python packages, so that you can now use the required classes in your code.
+
+2. Install the Selenium Web Driver for your respective browser (note that it is a different install for Linux, Mac, and Windows):
+
+a. For Google Chrome: https://chromedriver.chromium.org/downloads
+b. For Firefox: https://github.com/mozilla/geckodriver/releases
+c. For Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+If you use a different browser, just google "selenium web driver for X browser".
+
+Remember to extract the executable file to a directory/folder that is visible in your system PATH variable. If it is not, then your code will give you errors and no browser will open up.
+
+That was actually all the set up required! If that went smoothly, then move on to the next step of verifying that your installation worked by downloading the test.py file and running it using:
+
+```python test.py```
