@@ -1,5 +1,5 @@
 # WebCrawlin101
- A tutorial on Crawling the Web and Scraping off the Useful bits - without actually doing anything
+ A tutorial on Crawling the Web and Scraping off the Useful bits - without actually doing anything!
 
 ## What is Web Crawling and Web Scraping? Are they really different?
 
